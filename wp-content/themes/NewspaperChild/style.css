@@ -1,0 +1,77 @@
+/*
+ * Theme Name: 	Newspaper Child
+ * Theme URI: 		http://themeforest.net/user/tagDiv/portfolio
+ * Description: 	Premium wordpress template, clean and easy to use.
+ * Version: 		7.4
+ * Author: 		tagDiv
+ * Author URI: 	http://themeforest.net/user/tagDiv/portfolio
+ * License:
+ * License URI:
+ * Template: Newspaper
+ * Tags:black, white, one-column, two-columns, fixed-layout
+ * */
+@import url(../Newspaper/style.css);
+
+.sf-menu > li > a{
+font-weight:100;
+font-size:12px;
+padding:0 9px;
+}
+.td-trending-now-wrapper{
+padding:0 22px;
+}
+.td-trending-now-wrapper .td-next-prev-wrap{
+right:22px
+}
+.header-search-wrap .td-icon-search {
+ border:1px solid #a2a2a2;
+}
+body .latest_news_block{
+padding:15px !important;
+}
+.td-sub-footer-container{
+background:#f07f26;
+}
+.td-subfooter-menu li a{
+color:white;
+}
+.td-sub-footer-copy{
+color:white;
+}
+.thump > .entry-thumb{
+	width:100% !important;
+}
+.td-header-sp-logo{
+margin:28px 80px 9px -28px !important;
+}
+.td-footer-bottom-full .footer-logo-wrap {
+ margin-top:0px;
+}
+.wpb_wrapper{
+top:0px !important;
+}
+.td_module_8{
+border-bottom:none;
+}
+.td_module_8 .entry-title {
+font-size:12px;
+line-height:15px;
+}
+a:hover{
+text-decoration:none;
+}
+.td_module_mx5 #heading_main:nth-child(1){
+position:absolute;
+z-index:2;
+padding: 8px;
+width: 131px;
+text-align: center;
+font-size: 16px;
+}
+.td-module-meta-info{
+visibility:hidden;	
+}
+.td_block_inner .td-block-span12 .td_module_8{
+	padding-bottom:0px;
+}
+
